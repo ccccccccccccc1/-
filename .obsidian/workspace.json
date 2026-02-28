@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "caff613e7d8ae90d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc4a760dc490e0bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "028dbbd6e354d0c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/git 提交命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git 提交命令"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a5dd75805d9540f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f548725575569207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d02b0ebc67a26bc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d731cfeade223afc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5598e67322939c1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05114df380b124cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e55bef312f586a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e0a05a671aa71cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-02-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-02-28 的反向链接列表"
+            }
+          },
+          {
+            "id": "2eaefc5c2e4fc81a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-02-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-02-28 的出链列表"
+            }
+          },
+          {
+            "id": "10f23e321a13ffe1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5968e5fc33f75ef1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "17fad0012863f9f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-02-28.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-02-28 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "028dbbd6e354d0c7",
+  "lastOpenFiles": [
+    "GIT/git 删除命令.md",
+    "GIT/git 提交命令.md",
+    "agent 部署/青藤云 agent 部署.md",
+    "GIT",
+    "华为云/OBS/OBS信息.md",
+    "kafka/kafka3.9命令.md",
+    "华为云/磁盘扩容/华为云磁盘扩容.md",
+    "华为云/OBS",
+    "华为云",
+    "华为云/磁盘扩容",
+    "agent 部署",
+    "kafka",
+    "kafka.md",
+    "kafka/adfas.md",
+    "kafka/kafka 3.9命令.md",
+    "未命名 1.base",
+    "未命名.base",
+    "red/adfasdfredis.md",
+    "red",
+    "kafka/未命名 1.md",
+    "未命名.canvas",
+    "ff.md",
+    "sd.md",
+    "未命名 1.canvas",
+    "未命名 2.base",
+    "基本命令.md"
+  ]
+}
