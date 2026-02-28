@@ -10,3 +10,7 @@ git branch -M main
 git remote add origin https://github.com/ccccccccccccc1/-.git
 提交github
 git push -u origin main
+
+
+如果冲突远程覆盖
+git push -u origin main --force
