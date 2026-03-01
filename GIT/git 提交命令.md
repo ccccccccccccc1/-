@@ -2,6 +2,9 @@
 git init
 添加当前所有文件
 git add .
+配置提交信息
+git config --global user.email "wang665379@163.com"
+git config --global user.name "梦中梦"
 提交本地
 git commit -m "first commit"
 修改当前分支
